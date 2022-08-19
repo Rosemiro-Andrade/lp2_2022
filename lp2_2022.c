@@ -4,7 +4,7 @@ int main(int argc, char **argv)
 
 {
 
-	printf("hello tulio\n");
+	printf("hello, Rosemiro - lp2 em 2022\n");
 
 	return 0;
 }
